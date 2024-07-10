@@ -21,7 +21,7 @@ The script prints the sentiment analysis results to the console and saves them t
 
 The output DataFrame contains the following columns:
 
-neg: The percentage of negative words in the sentence.
-neu: The percentage of neutral words in the sentence.
-pos: The percentage of positive words in the sentence.
-compound: The overall sentiment score, ranging from -1 (extremely negative) to +1 (extremely positive).
+# neg: The percentage of negative words in the sentence.
+# neu: The percentage of neutral words in the sentence.
+# pos: The percentage of positive words in the sentence.
+# compound: The overall sentiment score, ranging from -1 (extremely negative) to +1 (extremely positive).
